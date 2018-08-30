@@ -30,5 +30,5 @@ Develop a Linked List that performs several standard operations. Linked Lists ar
 ### Requirement Notes
 * You may not use the predefined C++ Standard Template Library (STL) classes.
 * This lab must run on the Linux machines. The pass-off scripts will work only on those machines.
-* For this lab only, due to the nature of template classes, you are strongly encouraged to implement the entire class in only a '.h'. All classes that are not templates must be implemented by a '.h' and a '.cpp'
+* For this lab only, due to the nature of template classes, **you are strongly encouraged to implement the entire class in only a '.h'**. All classes that are not templates must be implemented in both a '.h' and a '.cpp'
 * Make sure that you pass all 5 tests before attempting to fix any memory leaks. If anything causes the program to crash (or if the pass-off script is unable to finish testing your code) the pass-off script may terminate before it is able to delete your LinkedList, which will always result in memory leaks.
